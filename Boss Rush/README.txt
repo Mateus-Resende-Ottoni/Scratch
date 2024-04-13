@@ -1,0 +1,1 @@
+Esse repositório é referente ao projeto jogo "Boss Rush" desenvolvido como parte de um trabalho na disciplina de Laboratório de Iniciação à Programação durante a minha graduação em Ciências da Computação na PUC Minas.
